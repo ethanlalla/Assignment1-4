@@ -11,6 +11,7 @@ body{
 
   background-image: linear-gradient(0deg, #dbe4f6, #ebfffc);
   color: #303030;
+  font-size: 20px;
 
   margin-left:  7.5em;
   margin-right: 7.5em;
@@ -18,7 +19,20 @@ body{
   margin-bottom: 2em;
 }
 
-h1 {
-  font-style: oblique;
+h1, h2{
+  font-size: 200%;
   color: #ff9b8e
+}
+
+ul li { background: #ff9486;
+  padding: 20px;
+
+}
+
+a:link { background-color: #ff9b8e;
+  text-decoration: none;
+  padding: 2px;
+
+
+
 }
