@@ -13,26 +13,100 @@ body{
   color: #303030;
   font-size: 20px;
 
-  margin-left:  7.5em;
-  margin-right: 7.5em;
-  margin-top: 1em;
+  margin-left:  6em;
+  margin-right: 6em;
+  margin-top: 2em;
   margin-bottom: 2em;
 }
 
+
 h1, h2{
+  font-weight: bolder;
+  letter-spacing: 2px;
   font-size: 200%;
   color: #ff9b8e
 }
 
-ul li { background: #ff9486;
-  padding: 20px;
 
+
+
+
+ul { background: #ff9486;
+  padding: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 4.5px;
+  padding-bottom: 4.5px;
 }
+
 
 a:link { background-color: #ff9b8e;
   text-decoration: none;
   padding: 2px;
+}
 
 
+p.small {
+  line-height: 0.5;
+}
 
+
+p.big {
+  line-height: 1.8;
+}
+
+
+img {
+  border-radius: 8px;
+}
+
+.title{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.music{
+  font-size: 15px;
+  font-style: italic;
+}
+
+.resistance{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.editor{
+  font-weight: bold;
+}
+
+.reader{
+  font-weight: bold;
+}
+
+.procras{
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.doubt{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.fear{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.inade{
+  font-weight: bold;
+}
+
+.lack{
+  font-weight: bold;
+}
+
+
+.high{
+  font-weight: bold;
 }
